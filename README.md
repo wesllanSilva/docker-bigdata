@@ -2,7 +2,7 @@
 # BIG DATA ECOSYSTEM COM DOCKER
 
 Ambiente para estudo dos principais frameworks big data em docker.
-<br> Esse setup vai criar dockers com os frameworks HDFS, HBase, Hive, Presto, Spark, Jupyter, Hue, Mongodb, Metabase, Nifi, kafka, Mysql e Zookeeper com a seguinte arquitetura:
+<br> Esse setup vai criar dockers com os frameworks HDFS, HBase, Hive, Presto, Spark, Jupyter, Hue, Mongodb, Metabase, Nifi, kafka, Mysql e Zookeeper.
 <br>  
 
 ## SETUP
