@@ -18,6 +18,11 @@ Ambiente para estudo dos principais frameworks big data em docker.
 #### Em um terminal/DOS, dentro diretório docker, realizar o clone do projeto no github
           git clone https://github.com/rodrigo-reboucas/docker-bigdata.git
           
+          ou
+          
+           git clone https://github.com/wesllanSilva/docker-bigdata.git
+
+          
 ## INICIANDO O AMBIENTE
    
 ### No terminal, no diretorio bigdata_docker, executar o docker-compose
